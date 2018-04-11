@@ -12,48 +12,48 @@
     <rect style="fill: #b1b175" x="435.142" y="191.218" width="134.05" height="73.8"/>
     <rect style="fill: none; fill-opacity:0; stroke-width: 3; stroke: #000000" x="435.142" y="191.218" width="134.05" height="73.8"/>
     <text font-size="13.5467" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="502.167" y="215.318">
-      <tspan x="502.167" y="215.318">Dig</tspan>
-      <tspan x="502.167" y="232.251">Command: d-d</tspan>
-      <tspan x="502.167" y="249.184">Labor: Mining</tspan>
+      <tspan x="502.167" y="215.318">Dig挖</tspan>
+      <tspan x="502.167" y="232.251">Command命令: d-d</tspan>
+      <tspan x="502.167" y="249.184">Labor工作: Mining挖掘</tspan>
     </text>
   </g>
   <g>
     <rect style="fill: #ffff59" x="865.48" y="689.97" width="108.35" height="40"/>
     <rect style="fill: none; fill-opacity:0; stroke-width: 3; stroke: #000000" x="865.48" y="689.97" width="108.35" height="40"/>
     <text font-size="13.5467" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="919.655" y="714.103">
-      <tspan x="919.655" y="714.103">Refuse pile</tspan>
+      <tspan x="919.655" y="714.103">Refuse pile垃圾堆</tspan>
     </text>
   </g>
   <g>
     <rect style="fill: #b1b175" x="1186.57" y="108.107" width="179.25" height="73.8"/>
     <rect style="fill: none; fill-opacity:0; stroke-width: 3; stroke: #000000" x="1186.57" y="108.107" width="179.25" height="73.8"/>
     <text font-size="13.5467" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="1276.2" y="132.207">
-      <tspan x="1276.2" y="132.207">Chop trees</tspan>
-      <tspan x="1276.2" y="149.14">Command: d-t</tspan>
-      <tspan x="1276.2" y="166.073">Labor: Wood cutting</tspan>
+      <tspan x="1276.2" y="132.207">Chop trees砍树</tspan>
+      <tspan x="1276.2" y="149.14">Command命令: d-t</tspan>
+      <tspan x="1276.2" y="166.073">Labor工作: Wood cutting伐木</tspan>
     </text>
   </g>
   <g>
     <rect style="fill: #ffffff" x="1243.2" y="227.5" width="66.25" height="40"/>
     <rect style="fill: none; fill-opacity:0; stroke-width: 3; stroke: #000000" x="1243.2" y="227.5" width="66.25" height="40"/>
     <text font-size="13.5467" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="1276.32" y="251.633">
-      <tspan x="1276.32" y="251.633">Wood</tspan>
+      <tspan x="1276.32" y="251.633">Wood树木</tspan>
     </text>
   </g>
   <g>
     <rect style="fill: #add8e6" x="1181.05" y="295.006" width="190.85" height="73.8"/>
     <rect style="fill: none; fill-opacity:0; stroke-width: 3; stroke: #000000" x="1181.05" y="295.006" width="190.85" height="73.8"/>
     <text font-size="13.5467" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="1276.48" y="319.106">
-      <tspan x="1276.48" y="319.106">Carpenter's workshop</tspan>
-      <tspan x="1276.48" y="336.039">Command: b-w-c</tspan>
-      <tspan x="1276.48" y="352.973">Labor: Carpentry</tspan>
+      <tspan x="1276.48" y="319.106">Carpenter's workshop木工车间</tspan>
+      <tspan x="1276.48" y="336.039">Command命令: b-w-c</tspan>
+      <tspan x="1276.48" y="352.973">Labor工作: Carpentry木工</tspan>
     </text>
   </g>
   <g>
     <rect style="fill: #ffffff" x="1096.48" y="698.272" width="158.65" height="40"/>
     <rect style="fill: none; fill-opacity:0; stroke-width: 3; stroke: #000000" x="1096.48" y="698.272" width="158.65" height="40"/>
     <text font-size="13.5467" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="1175.81" y="722.405">
-      <tspan x="1175.81" y="722.405">Training weapons</tspan>
+      <tspan x="1175.81" y="722.405">Training weapons武器训练</tspan>
     </text>
   </g>
   <g>
@@ -65,52 +65,52 @@
     <rect style="fill: #ffffff" x="1094.91" y="868.44" width="60.3" height="40"/>
     <rect style="fill: none; fill-opacity:0; stroke-width: 3; stroke: #000000" x="1094.91" y="868.44" width="60.3" height="40"/>
     <text font-size="13.5467" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="1125.06" y="892.573">
-      <tspan x="1125.06" y="892.573">Beds</tspan>
+      <tspan x="1125.06" y="892.573">Beds床</tspan>
     </text>
   </g>
   <g>
     <rect style="fill: #febf5d" x="916.808" y="847.076" width="86.35" height="40"/>
     <rect style="fill: none; fill-opacity:0; stroke-width: 3; stroke: #000000" x="916.808" y="847.076" width="86.35" height="40"/>
     <text font-size="13.5467" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="959.983" y="871.209">
-      <tspan x="959.983" y="871.209">Hospital</tspan>
+      <tspan x="959.983" y="871.209">Hospital医院</tspan>
     </text>
   </g>
   <g>
     <rect style="fill: #ffffff" x="891.642" y="1157.94" width="128.05" height="56.8667"/>
     <rect style="fill: none; fill-opacity:0; stroke-width: 3; stroke: #000000" x="891.642" y="1157.94" width="128.05" height="56.8667"/>
     <text font-size="13.5467" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="955.667" y="1182.04">
-      <tspan x="955.667" y="1182.04">Wooden/Bone</tspan>
-      <tspan x="955.667" y="1198.98">Ammo</tspan>
+      <tspan x="955.667" y="1182.04">Wooden/Bone木制/骨头</tspan>
+      <tspan x="955.667" y="1198.98">Ammo弹药</tspan>
     </text>
   </g>
   <g>
     <rect style="fill: #ffffff" x="639.386" y="1223.5" width="138.55" height="40"/>
     <rect style="fill: none; fill-opacity:0; stroke-width: 3; stroke: #000000" x="639.386" y="1223.5" width="138.55" height="40"/>
     <text font-size="13.5467" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="708.661" y="1247.64">
-      <tspan x="708.661" y="1247.64">Finished goods</tspan>
+      <tspan x="708.661" y="1247.64">Finished goods成品</tspan>
     </text>
   </g>
   <g>
     <rect style="fill: #ffff59" x="409.48" y="756" width="127.85" height="40"/>
     <rect style="fill: none; fill-opacity:0; stroke-width: 3; stroke: #000000" x="409.48" y="756" width="127.85" height="40"/>
     <text font-size="13.5467" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="473.405" y="780.133">
-      <tspan x="473.405" y="780.133">Furniture pile</tspan>
+      <tspan x="473.405" y="780.133">Furniture pile家具堆</tspan>
     </text>
   </g>
   <g>
     <rect style="fill: #ffffff" x="677.83" y="933.272" width="63.05" height="40"/>
     <rect style="fill: none; fill-opacity:0; stroke-width: 3; stroke: #000000" x="677.83" y="933.272" width="63.05" height="40"/>
     <text font-size="13.5467" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="709.355" y="957.405">
-      <tspan x="709.355" y="957.405">Cloth</tspan>
+      <tspan x="709.355" y="957.405">Cloth衣物</tspan>
     </text>
   </g>
   <g>
     <rect style="fill: #add8e6" x="610.108" y="192.397" width="199.05" height="73.8"/>
     <rect style="fill: none; fill-opacity:0; stroke-width: 3; stroke: #000000" x="610.108" y="192.397" width="199.05" height="73.8"/>
     <text font-size="13.5467" style="fill: #000000;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="709.633" y="216.497">
-      <tspan x="709.633" y="216.497">Farm plot</tspan>
-      <tspan x="709.633" y="233.43">Command: b-p</tspan>
-      <tspan x="709.633" y="250.364">Labor: Farming (fields)</tspan>
+      <tspan x="709.633" y="216.497">Farm plot农田</tspan>
+      <tspan x="709.633" y="233.43">Command命令: b-p</tspan>
+      <tspan x="709.633" y="250.364">Labor工作: Farming耕种 (fields土地)</tspan>
     </text>
   </g>
   <g>
